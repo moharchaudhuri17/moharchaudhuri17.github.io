@@ -1,13 +1,13 @@
 # Site settings
-title: Paul Melki
+title: Mohar Chaudhuri
 email: paul dot a dot melki at gmail dot com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my personal website, o fellow wanderer!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "paulmelki.github.io" # the base hostname & protocol for your site
-github_username:  paulmelki
-goodreads_username: paulmelki
-linkedin_username: paulmelki
+url: "moharchaudhuri.github.io" # the base hostname & protocol for your site
+github_username:  moharchaudhuri17
+goodreads_username: moharchaudhuri17
+linkedin_username: moharchaudhuri17
 
 # Build settings
 markdown: kramdown
