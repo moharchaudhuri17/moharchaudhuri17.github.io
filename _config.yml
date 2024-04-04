@@ -1,6 +1,6 @@
 # Site settings
 title: Mohar Chaudhuri
-email: <a href="mailto:i.moharc@gmail.com">i.moharc@gmail.com</a></li>
+email: i.moharc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my personal website, o fellow wanderer!
 baseurl: "" # the subpath of your site, e.g. /blog/
