@@ -4,17 +4,17 @@
 - title: "Resume"
   href: "/resume/"
 
-- title: "Research"
-  href: "/research/"
+- title: "Food"
+  href: "/food/"
 
-- title: "Teaching"
-  href: "/teaching/"
+- title: "Movies"
+  href: "/movies/"
 
-- title: "Suggested Reads"
-  href: "/suggestedreads/"
+- title: "Travel"
+  href: "/travel/"
 
-- title: "Photography"
-  href: "/photography/"
+# - title: "Photography"
+#   href: "/photography/"
 
 # - title: "For Students"
 #   href: "/for-students/"
