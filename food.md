@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Photography
-permalink: /photography/
+title: Food
+permalink: /food/
 ---
 
 Here you can find some collections of my photography :-)
